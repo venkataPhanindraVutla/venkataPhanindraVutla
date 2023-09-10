@@ -1,10 +1,14 @@
 <h2 align="left">Hi 👋! My name is Venkata Phanindra Vutla and I'm a CSE Undergraduate student, from RGUKT RKValley</h2>
 
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=venkataPhanindraVutla&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&custom_title=Java" height="150" alt="languages graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=venkataPhanindraVutla&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=10&date_format=[Y ]M j" height="150" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api?username=venkataPhanindraVutla&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
 </div>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="34" alt="html5 logo"  />
@@ -18,7 +22,11 @@
   <img src="https://skillicons.dev/icons?i=c" height="34" alt="c logo"  />
 </div>
 
-<img align="right" height="200" src="https://drive.google.com/file/d/1kC2r7lM4S_HbcWeRN1sFwEsG4RpcYoHz/view?usp=sharing"  />
+###
+
+<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
 
 <div align="left">
   <a href="phanivutla2004@gmail.com" target="_blank">
@@ -31,3 +39,5 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
+
+###

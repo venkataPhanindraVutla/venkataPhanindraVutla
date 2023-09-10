@@ -18,7 +18,7 @@
   <img src="https://skillicons.dev/icons?i=c" height="34" alt="c logo"  />
 </div>
 
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="200" src="https://drive.google.com/file/d/1kC2r7lM4S_HbcWeRN1sFwEsG4RpcYoHz/view?usp=sharing"  />
 
 <div align="left">
   <a href="phanivutla2004@gmail.com" target="_blank">

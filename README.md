@@ -1,8 +1,8 @@
 <div align="center">
-  <img height="150" src="https://github.com/venkataPhanindraVutla/venkataPhanindraVutla/assets/144616413/c4f85340-28c7-44c4-8147-5c42be7ae9c1"  />
+  <img height="300" src="https://github.com/venkataPhanindraVutla/venkataPhanindraVutla/assets/144616413/c4f85340-28c7-44c4-8147-5c42be7ae9c1"  />
 </div>
 
-<h2 align="left">Hey there 👋! My name is Venkata Phanindra Vutla and I'm a CSE Undergraduate student, from RGUKT RKValley</h2>
+<h3 align="left">Hey there 👋! My name is Venkata Phanindra Vutla and I'm a CSE Undergraduate student, from RGUKT RKValley</h3>
 
 
 <div align="center">

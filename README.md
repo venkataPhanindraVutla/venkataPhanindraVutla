@@ -10,10 +10,11 @@
 </div>
 
 <h3 align="left">👩‍💻  About Me</h3>
-
+<br>
 <p align="left">I'm Phani<br><br>- 🔭 I’m pursuing b.tech 2nd year in CSE<br>- 📚 I'm currently working on Java<br>- ⚡ In my free time I love to code and learn more about algorithms.</p>
 
 <h3 align="left">🛠 Language and tools</h3>
+<br>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
@@ -30,7 +31,7 @@
 </div>
 
 <h3 align="left">🔥   My Stats :</h3>
-
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=venkataPhanindraVutla&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=venkataPhanindraVutla&locale=en&mode=weekly&theme=gruvbox&hide_border=true&border_radius=5&date_format=n/j[/Y]&order=3" height="200" alt="streak graph"  />

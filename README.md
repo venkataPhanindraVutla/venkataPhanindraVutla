@@ -4,6 +4,10 @@
 
 ###
 
+###
+<h2 align="left">Hi 👋! My name is Venkata Phanindra Vutla and I'm a CSE Undergraduate student, from RGUKT RKValley</h2>
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/phani-v-274186266" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -28,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Venkata Phanindra Vutla from RGUKT RKValley<br><br>- 🔭 I’m pursuing b.tech 2nd year in CSE<br>- 📚 I'm currently working on Java<br>- ⚡ In my free time I love to code and learn more about algorithms.</p>
+<p align="left">I'm Phani<br><br>- 🔭 I’m pursuing b.tech 2nd year in CSE<br>- 📚 I'm currently working on Java<br>- ⚡ In my free time I love to code and learn more about algorithms.</p>
 
 ###
 

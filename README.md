@@ -5,7 +5,7 @@
 ###
 
 ###
-<h2 align="left">Hi 👋! My name is Venkata Phanindra Vutla and I'm a CSE Undergraduate student, from RGUKT RKValley</h2>
+<h2 align="left">Hey there 👋! My name is Venkata Phanindra Vutla and I'm a CSE Undergraduate student, from RGUKT RKValley</h2>
 ###
 
 <div align="center">

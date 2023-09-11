@@ -48,4 +48,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=venkataPhanindraVutla&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=venkataPhanindraVutla&locale=en&mode=weekly&theme=gruvbox&hide_border=true&border_radius=5&date_format=n/j[/Y]&order=3" height="220" alt="streak graph"  />
 </div>
-<img src="https://github.com/venkataPhanindraVutla/venkataPhanindraVutla/assets/144616413/c4f85340-28c7-44c4-8147-5c42be7ae9c1" height="220" align="center" border-radius=50px/>
+<div align="center">
+<img src="https://github.com/venkataPhanindraVutla/venkataPhanindraVutla/assets/144616413/c4f85340-28c7-44c4-8147-5c42be7ae9c1" height="220" border-radius=50px/>
+</div>

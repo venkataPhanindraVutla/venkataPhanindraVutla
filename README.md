@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Venkata Phanindra Vutla and I'm a CSE Undergraduate student, from RGUKT RKValley</h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<img align="right" height="200" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.kodytechnolab.com%2Fwp-content%2Fuploads%2F2022%2F03%2FHire-java-developers-feature.jpg&tbnid=3RnP_GUGOdlPOM&vet=12ahUKEwjJ8tujzKCBAxU15DgGHecZBVAQMygeegUIARC4AQ..i&imgrefurl=https%3A%2F%2Fkodytechnolab.com%2Fblog%2Fhow-to-hire-java-developers%2F&docid=7Ok_mro4xiOuaM&w=1200&h=798&q=java%20developer&ved=2ahUKEwjJ8tujzKCBAxU15DgGHecZBVAQMygeegUIARC4AQ"  />
+<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
